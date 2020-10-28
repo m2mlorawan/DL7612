@@ -2,4 +2,5 @@ Maxiiot DL7612-AS923-TH
 
 Firmware file: 
 
-rtc_print20200323(17) .hex
+1. rtc_print20200323(17) .hex  Date 23/03/2020
+2. rtc_print_AS1_20201023.hex  update 23/10/2020  Bug fixed for Class C display wrong RXwin2
