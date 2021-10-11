@@ -5,7 +5,8 @@ Firmware file:
 1. rtc_print20200323(17) .hex  Date 23/03/2020
 2. rtc_print_AS1_20201023.hex  update 23/10/2020  Bug fixed for Class C display wrong RXwin2
 3. rtc_print_AS1_20201126.hex  Update 26/11/2020  Beta Test ADR=0 Can Use DR0
-4. rtc_print_AS1_20210927OK.hex Data 27/9/2021  Fast OTA Join TTN V.3
+4. rtc_print_AS1_20210927OK.hex Date 27/9/2021  Fast OTA Join TTS V.3
+5. rtc_print_AS2_20211011.hex Date 11/10/2021   Join only 923.2 923.4 TTS V.3
 
 Example Node Sketch for ESP32:
 1. dl7612.ino UART2 Test send TEXT
